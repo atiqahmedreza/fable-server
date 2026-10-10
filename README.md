@@ -2,7 +2,8 @@
 
 Express API for Fable, an ebook sharing platform. Readers browse and purchase original ebooks, writers publish after a one-time verification fee, and an admin oversees users, books, and transactions.
 
-Live site: add your Vercel URL after the client is deployed.
+Live site: https://fable-client-pi.vercel.app
+
 
 ## Features
 
